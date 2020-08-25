@@ -1,39 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <title>The Green Cloud Workshop</title>
-    <script src="/js/include.js"></script>
-    <script src="/includes/head.js"></script>
-</head>
-
-<body style="overflow: hidden;">
-    <script src="/includes/navbar.js"></script>
-
-    <div id="banner" style="text-align: center; font-size: 1rem;">
-        <h5>
-            ⚠️Warning
-        </h5>
-        <p>
-            This preview of the course's content is open for non-degree learners. It is not guided or graded. <strong>It cannot deliver any certification or ECTS.</strong>
-        </p>
-        <p>
-            <a id="hide" class="waves-effect waves-light btn red"><i class="material-icons right">close</i>Close this banner</a>
-        </p>
-    </div>
-
-    <script>
-        const hide = document.getElementById('hide');
-        hide.addEventListener('click', () => {
-            document.getElementById('banner').style.display = 'none';
-        });
-    </script>
-
-    <div id="index-banner">
-        <iframe src="https://designing-with-web.gitlab.io/" width="100%" height="100%" style="border: none"></iframe>
-    </div>
-
-    <script src="/includes/scripts.js"></script>
-</body>
-
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <header>
+        </header>
+        <main>
+    
+        </main>
+        <footer>
+    
+        </footer>
+    </body>
 </html>
