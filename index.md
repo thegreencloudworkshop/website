@@ -2,19 +2,9 @@
 <html lang="en">
 
 <head>
-    <title>Designing with Web</title>
+    <title>The Green Cloud Workshop</title>
     <script src="/js/include.js"></script>
     <script src="/includes/head.js"></script>
-
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90298578-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-90298578-1');
-    </script>
 </head>
 
 <body style="overflow: hidden;">
