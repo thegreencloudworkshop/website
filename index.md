@@ -39,6 +39,7 @@ Les intervenants de cet atelier : The Shift Project, et bien plus à venir !
 The Green Cloud Workshop est le projet de trois étudiantes de l’emlyon business school visant à sensibiliser les professionnels d’aujourd’hui et de demain aux enjeux liées à la pollution par les outils numériques et IT dans l’entreprise.
         </main>
         <footer>
+    TGCW
         </footer>
     </body>
 </html>
