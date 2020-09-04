@@ -20,15 +20,17 @@ Il s’agit d’un workshop en ligne sur la durabilité des outils numériques e
 <H2>Le programme</H2>
 Au programme, un événement en ligne d’une durée de 2h30. Co-construit avec de multiples acteurs du secteur, nous vous transmettrons des outils, des méthodes et des solutions concrètes à mettre en place au sein de votre entreprise afin de réduire vos dépenses et vos émissions carbones.
 Rythmé par diverses interventions, nous vous proposons un atelier qui se déroulera en cinq étapes :
-    <li> * Présentation générale de la thématique et des différents intervenants </li>
-    <li>  * Achat responsable du matériel numérique </li>
-    <li> * Gestion et usage responsable du matériel numérique </li>
-    <li> * Fin de vie et économie circulaire pour votre matériel numérique </li>
-    <li>  * Q&A </li>
+    <li> Présentation générale de la thématique et des différents intervenants </li>
+    <li> Achat responsable du matériel numérique </li>
+    <li> Gestion et usage responsable du matériel numérique </li>
+    <li> Fin de vie et économie circulaire pour votre matériel numérique </li>
+    <li> Q&A </li>
   </body>
   <body>
 <H2>Les intervenants</H2>
-Cette rencontre sera animée par François Richard - Expert impacts environnementaux du numérique, THE SHIFT PROJECT et Amandine Roverre - Responsable Marketing Stratégique et opérationnel, MAKEMYCOM
+Cette rencontre sera animée par 
+    <li>François Richard - Expert impacts environnementaux du numérique, THE SHIFT PROJECT </li>
+    <li> Amandine Roverre - Responsable Marketing Stratégique et opérationnel, MAKEMYCOM </li>
 Les intervenants de cet atelier : The Shift Project, et bien plus à venir !
  </body>
   <body>
