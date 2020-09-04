@@ -9,9 +9,9 @@
     </head>
     <body>
         <header>
+            The Green Cloud Workshop
         </header>
-        <main>
-                            The Green Cloud Workshop
+        <main>                   
 Le project est né d’un constat simple : le numérique à une empreinte carbone croissante, et nous souhaitons inciter les entreprises à y remédier. Pour cala nous avons créé un workshop sur le numérique responsable et durable !
 
 Le workshop
