@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title><H1>The Green Cloud Workshop</H1></title>
+        <title>#The Green Cloud Workshop#</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
@@ -13,7 +13,7 @@
         <main>                   
 Le project est né d’un constat simple : le numérique à une empreinte carbone croissante, et nous souhaitons inciter les entreprises à y remédier. Pour cala nous avons créé un workshop sur le numérique responsable et durable !
 
-<H2>Le workshop</H2>
+##Le workshop##
 Il s’agit d’un workshop en ligne sur la durabilité des outils numériques et la réduction de leur impact énergétique à travers l’analyse du cycle de vie du matériel. Cet atelier sera diffusé en ligne le jeudi 15 octobre de 17h30 à 20h.
 
 Le programme
