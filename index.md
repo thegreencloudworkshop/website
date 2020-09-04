@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
+        <title>The Green Cloud Workshop</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
@@ -12,7 +12,6 @@
         </header>
         <main>
                             The Green Cloud Workshop
-            The Green Cloud Workshop
 Le project est né d’un constat simple : le numérique à une empreinte carbone croissante, et nous souhaitons inciter les entreprises à y remédier. Pour cala nous avons créé un workshop sur le numérique responsable et durable !
 
 Le workshop
