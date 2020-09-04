@@ -9,9 +9,9 @@
     </head>
     <body>
         <header>
-                The Green Cloud Workshop
         </header>
         <main>
+                            The Green Cloud Workshop
             The Green Cloud Workshop
 Le project est né d’un constat simple : le numérique à une empreinte carbone croissante, et nous souhaitons inciter les entreprises à y remédier. Pour cala nous avons créé un workshop sur le numérique responsable et durable !
 
@@ -32,10 +32,8 @@ Cette rencontre sera animée par François Richard - Expert impacts environnemen
 Les intervenants de cet atelier : The Shift Project, et bien plus à venir !
 L’équipe
 The Green Cloud Workshop est le projet de trois étudiantes de l’emlyon business school visant à sensibiliser les professionnels d’aujourd’hui et de demain aux enjeux liées à la pollution par les outils numériques et IT dans l’entreprise.
-
         </main>
         <footer>
-    
         </footer>
     </body>
 </html>
