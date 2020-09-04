@@ -31,6 +31,7 @@ Rythmé par diverses interventions, nous vous proposons un atelier qui se dérou
 Cette rencontre sera animée par 
     <li>François Richard - Expert impacts environnementaux du numérique, THE SHIFT PROJECT </li>
     <li> Amandine Roverre - Responsable Marketing Stratégique et opérationnel, MAKEMYCOM </li>
+
 Les intervenants de cet atelier : The Shift Project, et bien plus à venir !
  </body>
   <body>
