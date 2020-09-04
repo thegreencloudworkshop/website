@@ -15,7 +15,8 @@ Le project est né d’un constat simple : le numérique à une empreinte carbon
             
 ##<H2>Le workshop</H2>##
 Il s’agit d’un workshop en ligne sur la durabilité des outils numériques et la réduction de leur impact énergétique à travers l’analyse du cycle de vie du matériel. Cet atelier sera diffusé en ligne le jeudi 15 octobre de 17h30 à 20h.
-
+    </body>
+<body>
 <H2>Le programme</H2>
 Au programme, un événement en ligne d’une durée de 2h30. Co-construit avec de multiples acteurs du secteur, nous vous transmettrons des outils, des méthodes et des solutions concrètes à mettre en place au sein de votre entreprise afin de réduire vos dépenses et vos émissions carbones.
 Rythmé par diverses interventions, nous vous proposons un atelier qui se déroulera en cinq étapes :
@@ -24,7 +25,8 @@ Rythmé par diverses interventions, nous vous proposons un atelier qui se dérou
 * Gestion et usage responsable du matériel numérique
 * Fin de vie et économie circulaire pour votre matériel numérique
 * Q&A
-
+  </body>
+  
 <H2>Les intervenants</H2>
 Cette rencontre sera animée par François Richard - Expert impacts environnementaux du numérique, THE SHIFT PROJECT et Amandine Roverre - Responsable Marketing Stratégique et opérationnel, MAKEMYCOM
 Les intervenants de cet atelier : The Shift Project, et bien plus à venir !
