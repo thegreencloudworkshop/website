@@ -20,11 +20,13 @@ Il s’agit d’un workshop en ligne sur la durabilité des outils numériques e
 <H2>Le programme</H2>
 Au programme, un événement en ligne d’une durée de 2h30. Co-construit avec de multiples acteurs du secteur, nous vous transmettrons des outils, des méthodes et des solutions concrètes à mettre en place au sein de votre entreprise afin de réduire vos dépenses et vos émissions carbones.
 Rythmé par diverses interventions, nous vous proposons un atelier qui se déroulera en cinq étapes :
-* Présentation générale de la thématique et des différents intervenants
-* Achat responsable du matériel numérique
-* Gestion et usage responsable du matériel numérique
-* Fin de vie et économie circulaire pour votre matériel numérique
-* Q&A
+    <li>
+        * Présentation générale de la thématique et des différents intervenants
+        * Achat responsable du matériel numérique
+        * Gestion et usage responsable du matériel numérique
+        * Fin de vie et économie circulaire pour votre matériel numérique
+        * Q&A
+    </li>
   </body>
   <body>
 <H2>Les intervenants</H2>
